@@ -1,0 +1,41 @@
+.vendas {
+    color: rgb(0, 0, 0);
+    height: 120px;
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+
+.quiz-graph {
+    padding: 10px; 
+    height: 400px;
+    width: 70%;
+}
+
+.quiz-graph .x-labels {
+    text-anchor: middle;
+    font-size: small;
+}
+
+.quiz-graph .y-labels {
+    text-anchor: end;
+    font-size: small;
+}
+
+.quiz-graph .quiz-graph-grid {
+    stroke: #ccc;
+    stroke-dasharray: 0;
+    stroke-width: 1;
+}
+
+.label-title {
+    text-anchor: middle;
+    text-transform: uppercase;
+    font-size: 12px;
+    fill: gray;
+}
+
+.quiz-graph-dot, .quiz-graph-start-dot{
+    fill: #5F08B6;
+    stroke-width: 2;
+    stroke: white;   
+}
