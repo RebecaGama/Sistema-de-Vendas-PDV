@@ -11,5 +11,6 @@ Este é o repositório do front-end para um PDV - sistema de vendas.
 <h2>Vídeo:</h2>
 
 
-https://github.com/RebecaGama/Sistema-de-Vendas-PDV/assets/102360635/5e9d88b5-b6eb-4f01-bc39-26b35dc47f0b
+
+https://github.com/RebecaGama/Sistema-de-Vendas-PDV/assets/102360635/918fbfd8-d1e5-4da9-a217-9d17a94dd9ac
 
